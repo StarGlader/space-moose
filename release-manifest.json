@@ -1,0 +1,10 @@
+{
+  "version": "2026-10-14-night23",
+  "encryptedBytes": 1129881,
+  "plainBytes": 768416,
+  "sha256": "ac73ac94835c4d044c6097135c706663ae7a8682e4b7e07a4006aa6ea7626898",
+  "protection": "AES-256-GCM; PBKDF2-SHA256 600000",
+  "wrongPasswordRejected": true,
+  "target": "Chrome80+",
+  "physicalOldAndroidTested": false
+}
