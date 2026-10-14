@@ -1,8 +1,8 @@
 {
-  "version": "2026-10-14-voice32",
-  "encryptedBytes": 1458517,
-  "plainBytes": 1014893,
-  "sha256": "77c8b894f388a5af21ef06313723fd9e8abad944090c2104aab1b5ae5be7c9d0",
+  "version": "2026-10-14-voice33",
+  "encryptedBytes": 1443233,
+  "plainBytes": 1003429,
+  "sha256": "f5ce7c1cccc7371840573f5df42958a46cc5788293b8fca6ffc40e4bde19ad0b",
   "protection": "AES-256-GCM; PBKDF2-SHA256 600000",
   "wrongPasswordRejected": true,
   "target": "Chrome80+",
