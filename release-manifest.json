@@ -1,8 +1,8 @@
 {
-  "version": "2026-10-14-asteroid46",
-  "encryptedBytes": 1683377,
-  "plainBytes": 1183536,
-  "sha256": "889eee6ff48b3e37ca719fb47e4444eefa885e31c2feab74b14ff9ae2e65be79",
+  "version": "2026-10-14-start47",
+  "encryptedBytes": 1684209,
+  "plainBytes": 1184161,
+  "sha256": "d286d516ae4b8774638ef05e388629ce0c33c702ad632cc0f3b845e42e9447c1",
   "protection": "AES-256-GCM; PBKDF2-SHA256 600000",
   "wrongPasswordRejected": true,
   "target": "Chrome80+",
