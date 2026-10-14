@@ -1,12 +1,12 @@
 {
-  "version": "2026-10-14-voice33",
-  "encryptedBytes": 1443233,
-  "plainBytes": 1003429,
-  "sha256": "f5ce7c1cccc7371840573f5df42958a46cc5788293b8fca6ffc40e4bde19ad0b",
+  "version": "2026-10-14-planet41",
+  "encryptedBytes": 1715449,
+  "plainBytes": 1207591,
+  "sha256": "a015d192abe4804d4456eaf374264c6ee3d37c50dd6fadf8d1e1ed6db80c2eef",
   "protection": "AES-256-GCM; PBKDF2-SHA256 600000",
   "wrongPasswordRejected": true,
   "target": "Chrome80+",
   "physicalOldAndroidTested": false,
   "physicalTestRequired": false,
-  "androidBudgetReport": "qa/counter24/optimization.md"
+  "androidBudgetReport": "qa/obstacle35/optimization.md"
 }
