@@ -1,9 +1,9 @@
 {
   "version": "padel-prototype-1",
   "date": "2026-10-22",
-  "sha256": "b0eb93e8f8cfed150a831ab35090b4f8c5d5710a7169de59dbcb1f32f4663027",
-  "encryptedBytes": 445079,
-  "plainBytes": 331460,
+  "sha256": "c7cde6b273819e844fe4cdf55656a4a445351cd5597f7db9080c9e0169b8c8b9",
+  "encryptedBytes": 254095,
+  "plainBytes": 188220,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
