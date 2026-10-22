@@ -1,8 +1,8 @@
 {
-  "version": "2026-10-15-moose88",
-  "encryptedBytes": 5120947,
-  "plainBytes": 3761762,
-  "sha256": "aaefcfef8b9dd31bafc182fb2e37bbb3191cfaf5002e8abcde821562356c2a12",
+  "version": "2026-10-22-objects89",
+  "encryptedBytes": 5700371,
+  "plainBytes": 4196328,
+  "sha256": "00cb77152f55084963a286f3be4af85137d88a00dbe0032237b3a5fcc56536d1",
   "protection": "AES-256-GCM; PBKDF2-SHA256 600000",
   "wrongPasswordRejected": true,
   "target": "Chrome80+",
