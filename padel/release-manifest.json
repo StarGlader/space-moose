@@ -1,9 +1,9 @@
 {
-  "version": "padel-prototype-8-clean-focus-padel-rackets",
+  "version": "padel-prototype-9-no-legacy-panel",
   "date": "2026-10-22",
-  "sha256": "5a26d1de1b3a5ea0edff05aa91c34f40659f0e2cc1c950ea761cd0e5dc2d2c1b",
-  "encryptedBytes": 272151,
-  "plainBytes": 200658,
+  "sha256": "82497a49cac5f2c0a3d9367f3ac821950e8a41459420250f150b260546827234",
+  "encryptedBytes": 268038,
+  "plainBytes": 197577,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
