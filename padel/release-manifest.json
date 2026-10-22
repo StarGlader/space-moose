@@ -1,9 +1,9 @@
 {
-  "version": "padel-prototype-5-quiet-physics",
+  "version": "padel-prototype-6-thumb-clearance",
   "date": "2026-10-22",
-  "sha256": "97d10fd8b29e72daeadd609a1ad0c28333470c30c6633e5c81163b86df0b209f",
-  "encryptedBytes": 268999,
-  "plainBytes": 199398,
+  "sha256": "e5a223fdbd786f3691bd894a7d0e52c6e2571ee8c4c3a1777f52d52643b923f1",
+  "encryptedBytes": 268663,
+  "plainBytes": 199147,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
