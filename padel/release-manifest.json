@@ -1,9 +1,9 @@
 {
-  "version": "padel-front-beavers-1",
+  "version": "padel-front-beavers-2",
   "date": "2026-10-23",
-  "sha256": "9486f6dc8c4da7950e6e85dab0c0c6beca604e1ba3cea222e08460dd60166302",
-  "encryptedBytes": 4040161,
-  "plainBytes": 3026691,
+  "sha256": "a87ca541f7adcc6847936074206cbcf9bcdffeb6509a3a1618de644720ea0951",
+  "encryptedBytes": 4135665,
+  "plainBytes": 3098321,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
