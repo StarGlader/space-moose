@@ -1,9 +1,9 @@
 {
-  "version": "padel-three-second-countdown-lob-audio-1",
+  "version": "padel-stroke-audio-balance-1",
   "date": "2026-10-24",
-  "sha256": "3eec1cc34ed7dbbea645d9ab702a7973c771f96c81f9bed725ee13f23181c4be",
-  "encryptedBytes": 5498269,
-  "plainBytes": 4089500,
+  "sha256": "8b6ef64f11691c587ed50762fdd3118564a99b830eeb3f85cb515064cf5f4fe7",
+  "encryptedBytes": 5498457,
+  "plainBytes": 4089639,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
