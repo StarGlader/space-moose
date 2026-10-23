@@ -1,9 +1,9 @@
 {
-  "version": "padel-beavers-rally-finish-1",
+  "version": "padel-landing-pulse-1",
   "date": "2026-10-23",
-  "sha256": "2a86ecdef8c34210018bd8f56f2367b5a773759bd4b525e4a802bad3cfc6d740",
-  "encryptedBytes": 4052617,
-  "plainBytes": 3036033,
+  "sha256": "315499e34726aa1f3621f0738c6db0da0e8e41800e79802d44773f0385b02540",
+  "encryptedBytes": 4053025,
+  "plainBytes": 3036340,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
