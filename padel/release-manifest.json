@@ -1,9 +1,9 @@
 {
-  "version": "padel-violet-pixel-score-gait-2",
-  "date": "2026-10-23",
-  "sha256": "34566de3f2a45ea617c0d468a4b88165b3558753724240c7cf40eb6419d61300",
-  "encryptedBytes": 4680249,
-  "plainBytes": 3506759,
+  "version": "padel-real-audio-pixel-controls-1",
+  "date": "2026-10-24",
+  "sha256": "9c79a369b8e8815bb87bcc7b0dda92f5d9316575a8432fac2bbf9a8b4562c511",
+  "encryptedBytes": 4857557,
+  "plainBytes": 3639739,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
