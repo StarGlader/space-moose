@@ -1,9 +1,9 @@
 {
-  "version": "padel-racket-user-grid-1",
+  "version": "padel-hit-zone-debug-1",
   "date": "2026-10-23",
-  "sha256": "ba20cfbe53d2db341d749e92ef99feaeaf5018e438f765fec4c017c4f9dd2468",
-  "encryptedBytes": 3993001,
-  "plainBytes": 2991322,
+  "sha256": "62e920f3f255683b7c1483787664bb547fb43faa5861027163f30c47d12ee8ea",
+  "encryptedBytes": 3996641,
+  "plainBytes": 2994052,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
