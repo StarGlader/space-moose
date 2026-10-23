@@ -1,9 +1,9 @@
 {
-  "version": "padel-moose-sprites-1",
+  "version": "padel-moose-goose-sprites-1",
   "date": "2026-10-23",
-  "sha256": "dd9ca430111cfecf3ee7babd6c293748a3dc455c5c20c2fc97953d04d05b4f84",
-  "encryptedBytes": 1522013,
-  "plainBytes": 1138082,
+  "sha256": "40569d0f8c749fcabe3cad6f3e1d27f058f2ad916e24973ad17ae52703388c4c",
+  "encryptedBytes": 2570249,
+  "plainBytes": 1924259,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
