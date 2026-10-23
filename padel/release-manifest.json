@@ -1,9 +1,9 @@
 {
-  "version": "padel-hit-zone-debug-1",
+  "version": "padel-responsive-touch-1",
   "date": "2026-10-23",
-  "sha256": "62e920f3f255683b7c1483787664bb547fb43faa5861027163f30c47d12ee8ea",
-  "encryptedBytes": 3996641,
-  "plainBytes": 2994052,
+  "sha256": "a5a9d0e633fdc22994c2005fcd5a6c70649966e054d941ab0a19c25a5c161713",
+  "encryptedBytes": 3998693,
+  "plainBytes": 2995592,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
