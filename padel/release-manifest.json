@@ -1,9 +1,9 @@
 {
-  "version": "padel-landing-pulse-1",
+  "version": "padel-stable-beavers-ring18-1",
   "date": "2026-10-23",
-  "sha256": "315499e34726aa1f3621f0738c6db0da0e8e41800e79802d44773f0385b02540",
-  "encryptedBytes": 4053025,
-  "plainBytes": 3036340,
+  "sha256": "52ad26e32f789092b0397da1d1cb5964c59feed5de03e4c58a89f5dc7b4b508b",
+  "encryptedBytes": 4048981,
+  "plainBytes": 3033306,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
