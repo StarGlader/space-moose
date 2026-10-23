@@ -1,9 +1,9 @@
 {
-  "version": "padel-goose-motion-2",
+  "version": "padel-front-beavers-1",
   "date": "2026-10-23",
-  "sha256": "90b4e3e32cdf4b707a45a166a85bca1cd0da7d65cc0b154e57b450321c5ab1a1",
-  "encryptedBytes": 2559481,
-  "plainBytes": 1916183,
+  "sha256": "9486f6dc8c4da7950e6e85dab0c0c6beca604e1ba3cea222e08460dd60166302",
+  "encryptedBytes": 4040161,
+  "plainBytes": 3026691,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
