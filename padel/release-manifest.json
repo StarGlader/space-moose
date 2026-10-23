@@ -1,9 +1,9 @@
 {
-  "version": "padel-height-readability-1",
+  "version": "padel-rigid-details-1",
   "date": "2026-10-23",
-  "sha256": "e78daf9eacc75d21a5eb4bbf5e8cd9189e3bfaecd060b1554acde2007c0df8f4",
-  "encryptedBytes": 4137333,
-  "plainBytes": 3099570,
+  "sha256": "d1435f96d5954b4a7853a810a09cf5a69e632a60eee049abc46562dc26874171",
+  "encryptedBytes": 4056373,
+  "plainBytes": 3038850,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
