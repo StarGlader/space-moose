@@ -1,9 +1,9 @@
 {
-  "version": "padel-goose-coverage-readable-countdown-1",
+  "version": "padel-complete-sound-pack-1",
   "date": "2026-10-24",
-  "sha256": "a8c913761340eee9fbacd7810248796105cdfd96ba7ef4fe13cc0126aa0dcd28",
-  "encryptedBytes": 4858953,
-  "plainBytes": 3640786,
+  "sha256": "ecb48af18ac8497525d57bcf0f200fa7aae955141dd9d0fcb97bc55cdd59e743",
+  "encryptedBytes": 5498133,
+  "plainBytes": 4089396,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
