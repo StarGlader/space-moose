@@ -1,9 +1,9 @@
 {
-  "version": "padel-racket-shape-1",
+  "version": "padel-racket-oval-2",
   "date": "2026-10-23",
-  "sha256": "d620091e66e03c20c6ab89cf8c59cb7bd60d1435148c540b4e026d25cc72cce3",
-  "encryptedBytes": 4061317,
-  "plainBytes": 3042558,
+  "sha256": "f444834c205b33c8f8fd1180112558f0b84a36df208d7703f1e4cafe0c933e5c",
+  "encryptedBytes": 4051245,
+  "plainBytes": 3035006,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
