@@ -1,8 +1,8 @@
 {
-  "version": "2026-10-22-lighting90",
-  "encryptedBytes": 5718111,
-  "plainBytes": 4209635,
-  "sha256": "19f84033ccec120c861cf75d30ede905aaf2853029e4b742ae9bb7e6973e720e",
+  "version": "2026-10-26-controls91",
+  "encryptedBytes": 5718559,
+  "plainBytes": 4209969,
+  "sha256": "ffda2098b914d0d740e2531b55fb2a2dd823012e6a95c184aaf7dd9b85d598ac",
   "protection": "AES-256-GCM; PBKDF2-SHA256 600000",
   "wrongPasswordRejected": true,
   "target": "Chrome80+",
